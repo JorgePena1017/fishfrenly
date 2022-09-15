@@ -1,7 +1,7 @@
 import '../styles/main.scss';
 
 import ReactDOM from 'react-dom';
-import Dapp from './react/Dapp';
+import Dapp from './react/dapp';
 import CollectionConfig from '../../../smart-contract/config/CollectionConfig';
 
 if (document.title === '') {
